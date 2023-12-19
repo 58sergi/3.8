@@ -5,9 +5,20 @@ footer.azul {
     background-color: cadetblue;
     text
 }
-div.azul {
-    background-color: blue;
-    display: inline;
-    width: 500px;
+div.caja1{
+    width: 33%;
     height: 300px;
+    background-color: blue;
+    display: inline-block;
 }
+div.caja2{
+    width: 33%;
+    height: 300px;
+    background-color: red;
+    display: inline-block;
+}
+div.caja3{
+    width: 33%;
+    height: 300px;
+    background-color: yellow;
+    display: inline-block;
